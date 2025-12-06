@@ -1,0 +1,8 @@
+HERES WHAT TO DO FOR lab 4 part 2
+
+
+use examples/bluetooth/bludriod/ble/ble_hid_device_demo
+hid_demo_task <- currently volume, modify to do the mouse thing
+
+part 3
+bluetooth, idf menu config-> esp_driver_i2c in config file(do bluetooth)
